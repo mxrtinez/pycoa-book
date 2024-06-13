@@ -1,0 +1,29 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Installation
+    chapters:
+    - file: docs/installation/online.md
+    - file: docs/installation/local.md
+  - caption: Usage
+    chapters:
+    - file: docs/usage/load.md
+    - file: docs/usage/databases.md
+    - file: docs/usage/instructions.md
+  - caption: Examples
+    chapters:
+    - file: docs/examples/temporal-evolution.md
+    - file: docs/examples/maps.md
+    - file: docs/examples/histograms.md
+    - file: docs/examples/data-retrieval.md
+    - file: docs/examples/switch-database.md
+    - file: docs/examples/graphics.md
+    - file: docs/examples/output.md    
+  - caption: Documentation
+    chapters:
+    - file: docs/documentation.md
+    - file: LICENSE
+  
