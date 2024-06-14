@@ -21,7 +21,8 @@ parts:
     - file: docs/examples/data-retrieval.md
     - file: docs/examples/switch-database.md
     - file: docs/examples/graphics.md
-    - file: docs/examples/output.md    
+    - file: docs/examples/output.md
+    - file: docs/examples/MainNotebook.ipynb    
   - caption: Documentation
     chapters:
     - file: docs/documentation.md

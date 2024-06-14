@@ -1,3 +1,4 @@
+pycoa @ git+https://github.com/coa-project/pycoa@main
 jupyter-book
 matplotlib
 numpy
@@ -21,3 +22,5 @@ shapely==1.8.2
 pytest
 unidecode
 openpyxl 
+tqdm
+seaborn
